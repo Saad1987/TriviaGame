@@ -1,0 +1,59 @@
+.jumbotron {
+    /* background-color:  yellow; */
+    background-image: url("../images/baground2.jpg"); 
+    width: 154vh;
+   min-height: 100%;
+    position: relative;
+    top: 20px;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+body {
+    /* ru.dreamstime.com */
+    background-image: url("../images/baground.jpg"); 
+}
+
+.Choices {
+
+    font-size: 40px;
+    cursor: pointer;
+}
+
+/* .answer:hover {
+
+    font-size: 45px;
+    border: 5px solid lightskyblue;
+   
+} */
+
+#question{
+
+    font-size: 35px;
+}
+
+#timer {
+
+    font-size: 25px;
+    color : darkred ;
+}
+
+.centerbtn {
+
+    margin: 150px auto;
+    display: block;
+    position: relative;
+    font-size: 50px;
+    color: beige;
+    
+}
+
+.centerbtn2 {
+
+    margin: 0px auto;
+    display: block;
+    position: relative;
+    font-size: 30px;
+    color: beige;
+    
+}
